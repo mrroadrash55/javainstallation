@@ -1,0 +1,2 @@
+sudo alternatives --config java
+alternatives --install /usr/bin/java java /opt/java/java64/jre.../bin/java 2
